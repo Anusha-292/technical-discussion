@@ -7,3 +7,11 @@ Different types of clouds
 * GCP
 * Azure
 * Openstack - RHEL
+
+## Learning about each cloud
+### AWS
+ **Amazon web services**
+### GCP
+ **Google cloud Platform**
+### Azure
+
